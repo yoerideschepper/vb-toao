@@ -1,0 +1,16 @@
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\VB_TheOneAndOnly.exe
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\VB_TheOneAndOnly.pdb
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.abstractions.dll
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.assert.dll
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.core.dll
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.execution.desktop.dll
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.abstractions.xml
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.assert.xml
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.core.xml
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\bin\Debug\xunit.execution.desktop.xml
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB-TheOneAndOnly.csproj.AssemblyReference.cache
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB-TheOneAndOnly.csproj.SuggestedBindingRedirects.cache
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB-TheOneAndOnly.csproj.CoreCompileInputs.cache
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB-TheOneAndOnly.csproj.CopyComplete
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB_TheOneAndOnly.exe
+C:\Users\yoeri\RiderProjects\VB-TheOneAndOnly\VB-TheOneAndOnly\obj\Debug\VB_TheOneAndOnly.pdb
