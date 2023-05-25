@@ -60,7 +60,18 @@ Dit kan gelijkaardig voor de andere segmenten ook gedaan worden.
 
 ### Fractals
 
-De klassieker om een recursief probleem toe te passen of een oneerbiedige refactored loop. De moeilijkheid aan deze oefening is dat er meerdere patronen mogelijk zijn bij het `groeien` van de fractalstructuur. Dit kan op minstens 2 manieren aangepakt worden: alle mogelijk input op voorhand alvast berekenen en de mogelijke uitkomsten op te zoeken of dit tijdens de uitvoering te doen. Er zullen enkele nog steeds enkele functies nodig zijn: om een matrix te transponeren en te roteren, de aantal `aan` vakjes te tellen, te checken of de matrix deelbaar is en uiteindelijk nog een fucntie om de matrix te laten uitbreiden.
+De klassieker om een recursief probleem toe te passen of een oneerbiedige refactored loop. De moeilijkheid aan deze oefening is dat er meerdere patronen mogelijk zijn bij het `groeien` van de fractalstructuur. Dit kan op minstens 2 manieren aangepakt worden: alle mogelijk input op voorhand alvast berekenen en de mogelijke uitkomsten op te zoeken of dit tijdens de uitvoering te doen. Er zullen enkele nog steeds enkele functies nodig zijn: om een matrix te transponeren en te roteren, de aantal `aan` vakjes te tellen, te checken of de matrix deelbaar is, deze terug op te delen en uiteindelijk nog een fucntie om de matrix te laten uitbreiden.
+
+Een mogelijk control flow zou dan kunnen zijn:
+- de regels uitbreiden door de inputs te transponeren en te roteren en hiervan een nieuwe txt te maken
+- matrixformaat bepalen
+- deze te splitsen
+- de patronen zoeken in de nieuwe lijst en deze ophalen
+- de matrix uitbreiden
+- de teller met 1 verhogen
+
+vanaf de gevraagde extensie is bereikt dit stoppen en de matrix overlopen en de `aan` vakjes tellen.
+
 
 
 
